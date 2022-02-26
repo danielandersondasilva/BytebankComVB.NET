@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\bin\Release\2 - ByteBank.exe.config
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\bin\Release\2 - ByteBank.exe
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\bin\Release\2 - ByteBank.pdb
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\bin\Release\2 - ByteBank.xml
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\obj\Release\2 - ByteBank.vbprojAssemblyReference.cache
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\obj\Release\_2___ByteBank.Frm_Principal_02.resources
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\obj\Release\_2___ByteBank.Resources.resources
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\obj\Release\2 - ByteBank.vbproj.GenerateResource.cache
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\obj\Release\2 - ByteBank.vbproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\obj\Release\2 - ByteBank.exe
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\obj\Release\2 - ByteBank.xml
+C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\2 - ByteBank\obj\Release\2 - ByteBank.pdb
