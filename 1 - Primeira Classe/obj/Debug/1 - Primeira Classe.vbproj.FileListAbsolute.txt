@@ -15,7 +15,6 @@ C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\1 - Primeira Clas
 C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\1 - Primeira Classe\bin\Debug\1 - Primeira Classe.exe
 C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\1 - Primeira Classe\bin\Debug\1 - Primeira Classe.pdb
 C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\1 - Primeira Classe\bin\Debug\1 - Primeira Classe.xml
-C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\1 - Primeira Classe\obj\Debug\1 - Primeira Classe.vbprojAssemblyReference.cache
 C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\1 - Primeira Classe\obj\Debug\_1___Primeira_Classe.Frm_Pricipal_01.resources
 C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\1 - Primeira Classe\obj\Debug\_1___Primeira_Classe.Frm_Principal02.resources
 C:\Users\danie\source\repos\OrientacaoObjeto\BytebankComVB.NET\1 - Primeira Classe\obj\Debug\_1___Primeira_Classe.Resources.resources

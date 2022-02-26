@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Frm_Principal02
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+Partial Class Frm_Principal_02
     Inherits System.Windows.Forms.Form
 
     'Descartar substituições de formulário para limpar a lista de componentes.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Frm_Principal02
     'OBSERVAÇÃO: o procedimento a seguir é exigido pelo Windows Form Designer
     'Pode ser modificado usando o Windows Form Designer.  
     'Não o modifique usando o editor de códigos.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.Lbl_Principal_02 = New System.Windows.Forms.Label()
         Me.Lbl_Valor_Gabriela = New System.Windows.Forms.Label()
@@ -36,7 +36,9 @@ Partial Class Frm_Principal02
         Me.Btn_Depositar_Gabriela = New System.Windows.Forms.Button()
         Me.Txt_Extrato_Gabriela = New System.Windows.Forms.TextBox()
         Me.Grp_Gabriela = New System.Windows.Forms.GroupBox()
+        Me.Btn_Transferir_Gabriela = New System.Windows.Forms.Button()
         Me.Grp_Bruno = New System.Windows.Forms.GroupBox()
+        Me.Btn_Transferir_Bruno = New System.Windows.Forms.Button()
         Me.Lbl_bemVindo_Bruno = New System.Windows.Forms.Label()
         Me.Txt_Extrato_Bruno = New System.Windows.Forms.TextBox()
         Me.Lbl_Valor_Bruno = New System.Windows.Forms.Label()
@@ -49,8 +51,7 @@ Partial Class Frm_Principal02
         Me.Txt_Saldo_Bruno = New System.Windows.Forms.TextBox()
         Me.Txt_Resultado_Bruno = New System.Windows.Forms.TextBox()
         Me.Lbl_Resultado_Bruno = New System.Windows.Forms.Label()
-        Me.Btn_Transferir_Gabriela = New System.Windows.Forms.Button()
-        Me.Btn_Transferir_Bruno = New System.Windows.Forms.Button()
+        Me.Lbl_NumeroDeClientes = New System.Windows.Forms.Label()
         Me.Grp_Gabriela.SuspendLayout()
         Me.Grp_Bruno.SuspendLayout()
         Me.SuspendLayout()
@@ -186,6 +187,15 @@ Partial Class Frm_Principal02
         Me.Grp_Gabriela.TabStop = False
         Me.Grp_Gabriela.Text = "GroupBox1"
         '
+        'Btn_Transferir_Gabriela
+        '
+        Me.Btn_Transferir_Gabriela.Location = New System.Drawing.Point(9, 279)
+        Me.Btn_Transferir_Gabriela.Name = "Btn_Transferir_Gabriela"
+        Me.Btn_Transferir_Gabriela.Size = New System.Drawing.Size(335, 23)
+        Me.Btn_Transferir_Gabriela.TabIndex = 13
+        Me.Btn_Transferir_Gabriela.Text = "Button1"
+        Me.Btn_Transferir_Gabriela.UseVisualStyleBackColor = True
+        '
         'Grp_Bruno
         '
         Me.Grp_Bruno.Controls.Add(Me.Btn_Transferir_Bruno)
@@ -207,6 +217,15 @@ Partial Class Frm_Principal02
         Me.Grp_Bruno.TabIndex = 14
         Me.Grp_Bruno.TabStop = False
         Me.Grp_Bruno.Text = "GroupBox1"
+        '
+        'Btn_Transferir_Bruno
+        '
+        Me.Btn_Transferir_Bruno.Location = New System.Drawing.Point(23, 293)
+        Me.Btn_Transferir_Bruno.Name = "Btn_Transferir_Bruno"
+        Me.Btn_Transferir_Bruno.Size = New System.Drawing.Size(335, 23)
+        Me.Btn_Transferir_Bruno.TabIndex = 13
+        Me.Btn_Transferir_Bruno.Text = "Button1"
+        Me.Btn_Transferir_Bruno.UseVisualStyleBackColor = True
         '
         'Lbl_bemVindo_Bruno
         '
@@ -308,33 +327,25 @@ Partial Class Frm_Principal02
         Me.Lbl_Resultado_Bruno.TabIndex = 6
         Me.Lbl_Resultado_Bruno.Text = "Label1"
         '
-        'Btn_Transferir_Gabriela
+        'Lbl_NumeroDeClientes
         '
-        Me.Btn_Transferir_Gabriela.Location = New System.Drawing.Point(9, 279)
-        Me.Btn_Transferir_Gabriela.Name = "Btn_Transferir_Gabriela"
-        Me.Btn_Transferir_Gabriela.Size = New System.Drawing.Size(335, 23)
-        Me.Btn_Transferir_Gabriela.TabIndex = 13
-        Me.Btn_Transferir_Gabriela.Text = "Button1"
-        Me.Btn_Transferir_Gabriela.UseVisualStyleBackColor = True
+        Me.Lbl_NumeroDeClientes.AutoSize = True
+        Me.Lbl_NumeroDeClientes.Location = New System.Drawing.Point(546, 18)
+        Me.Lbl_NumeroDeClientes.Name = "Lbl_NumeroDeClientes"
+        Me.Lbl_NumeroDeClientes.Size = New System.Drawing.Size(39, 13)
+        Me.Lbl_NumeroDeClientes.TabIndex = 15
+        Me.Lbl_NumeroDeClientes.Text = "Label1"
         '
-        'Btn_Transferir_Bruno
-        '
-        Me.Btn_Transferir_Bruno.Location = New System.Drawing.Point(23, 293)
-        Me.Btn_Transferir_Bruno.Name = "Btn_Transferir_Bruno"
-        Me.Btn_Transferir_Bruno.Size = New System.Drawing.Size(335, 23)
-        Me.Btn_Transferir_Bruno.TabIndex = 13
-        Me.Btn_Transferir_Bruno.Text = "Button1"
-        Me.Btn_Transferir_Bruno.UseVisualStyleBackColor = True
-        '
-        'Frm_Principal02
+        'Frm_Principal_02
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1725, 733)
+        Me.Controls.Add(Me.Lbl_NumeroDeClientes)
         Me.Controls.Add(Me.Grp_Bruno)
         Me.Controls.Add(Me.Grp_Gabriela)
         Me.Controls.Add(Me.Lbl_Principal_02)
-        Me.Name = "Frm_Principal02"
+        Me.Name = "Frm_Principal_02"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Frm_Principal02"
         Me.Grp_Gabriela.ResumeLayout(False)
@@ -375,4 +386,5 @@ Partial Class Frm_Principal02
     Friend WithEvents Lbl_Resultado_Bruno As Label
     Friend WithEvents Btn_Transferir_Gabriela As Button
     Friend WithEvents Btn_Transferir_Bruno As Button
+    Friend WithEvents Lbl_NumeroDeClientes As Label
 End Class
